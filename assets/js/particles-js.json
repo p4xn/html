@@ -11,10 +11,10 @@
       "value": "#ffffff"
     },
     "shape": {
-      "type": "circle",
+      "type": "star",
       "stroke": {
-        "width": 0,
-        "color": "#000000"
+        "width": 3,
+        "color": "#c2ff00"
       },
       "polygon": {
         "nb_sides": 5
@@ -36,7 +36,7 @@
       }
     },
     "size": {
-      "value": 3,
+      "value": 12.02559045649142,
       "random": true,
       "anim": {
         "enable": false,
